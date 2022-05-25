@@ -6,6 +6,7 @@ from airflow.version import version
 from datetime import datetime, timedelta 
 #squash testing1 line1
 #squash testing1 line2
+#squash testing1 line3
 
 
 def my_custom_function(ts,**kwargs):
