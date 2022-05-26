@@ -4,9 +4,7 @@ from airflow.operators.bash_operator import BashOperator
 from airflow.operators.python_operator import PythonOperator
 from airflow.version import version
 from datetime import datetime, timedelta
-# app1 testing line1
-# app1 testing line2
-# app1 testing line3
+# test line1
 
 def my_custom_function(ts,**kwargs):
     """
